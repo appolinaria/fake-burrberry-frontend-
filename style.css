@@ -1,0 +1,39 @@
+.Product-Page-Mobile {
+    width: 320 px;
+    height: 2127px;
+    border: grey;
+    border-style: color;
+}
+.Logo {
+    width: 138px;
+    height: 10px;
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.block2 {
+     width: 215px;
+     height: 17px;
+     font-family: Lora;
+     font-size: 14px;
+     text-align: left;
+     color: #111111;
+     margin-left: 16px;
+     margin-right: 89px;
+}
+.Line-2 {
+    width: 320px;
+    height: 2px;
+    border: solid 1px #c6c6c6;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+}
+.prokrutka {
+    height: 300px;
+    width: 400px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
